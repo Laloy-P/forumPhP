@@ -1,0 +1,146 @@
+.cforum
+{
+    background-color: white;
+    height: auto;
+    margin : 100px;
+    margin-bottom: 0px;
+    text-align: center;
+    border: 1px solid #E5E5E5;
+    box-shadow: 0px 0px 0.5px #A9A9A9;
+    font-family: 'Cantarell', sans-serif;
+    
+}
+body{
+    background-color:#FAFAFA;
+    margin: 0px;
+    padding: 0px;
+    border:none;
+    font-family: 'Cantarell', sans-serif;
+    
+}
+
+.categorie-titre{
+    color :#37474f ;
+    width: inherit;
+    background-color: gainsboro;
+    height: 100px;
+    margin: 0;
+    font-family: 'Cantarell', sans-serif;
+    font-size: 35px;
+}
+
+.categorie{
+    color :#37474f ;
+    width: inherit;
+    background-color: gainsboro;
+    height: 100px;
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Cantarell', sans-serif;
+}
+  
+.post{
+    color : #37474f; 
+    background-color: gainsboro;
+    min-height: 200px;
+    width: inherit;
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Cantarell', sans-serif;
+    
+    
+}
+.banner{
+    margin:0;
+    margin-top:0;
+    padding:0;
+    border:none;
+    height : 400px;
+    background-image: url(../ressource/mountain2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Vollkorn', serif;
+    font-size: 35px;
+    
+}
+.banner-text{
+    margin:0;
+    margin-top:0;
+    padding:0;
+    border:none;
+    color:white;
+    text-align: center; 
+    font-family: 'Cantarell', sans-serif;
+}
+.inner-banner{
+    margin:0;
+    margin-top:0;
+    padding:0;
+    padding-top: 10px;
+    border:none;
+    height : 40px;
+    width: 100%;
+    background-color: #455A64;
+    color : white;
+    text-align: center;
+    font-family: 'Cantarell', sans-serif;
+    
+}
+.banner-head{
+       margin:0;
+    margin-top:0;
+    padding:0;
+    padding-top: 10px;
+    padding-left: 30px;
+    border:none;
+    height : 40px;
+    width: inherit;
+    background-color: #455A64;
+    color : white;
+    text-align: left;
+    font-family: 'Cantarell', sans-serif; 
+}
+.highlight{
+    background-color: #086FBC;
+    opacity: 0.85;
+}
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #455A64;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+    border: none;
+}
+
+.btn:hover {
+  background: #075086;
+  text-decoration: none;
+}
+.nav{
+    margin-top : 9px;
+    margin-left: 100px;
+    position: relative;
+}
+.poz{
+    position: absolute;
+    margin:0px;
+    top: 402px;
+    left: 457px;
+}
+
+a{
+    color: #37474f ;
+}
+.reponse{
+    background-color: white;
+    height: auto;
+    margin-top: 20px;
+    margin-left : 100px;
+    margin-right : 100px;
+    padding: 10px;
+    border: 1px solid #E5E5E5;
+    box-shadow: 0px 0px 0.5px #A9A9A9;
+    font-family: 'Cantarell', sans-serif;
+}
